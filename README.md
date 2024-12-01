@@ -71,7 +71,7 @@ CREATE TABLE contacts (
 
 
 ## Captura de pantalla
-![Descripción de la imagen](/public/images/image.jpg)
+![Descripción de la imagen](./src/public/images/image.png)
 
 
 
